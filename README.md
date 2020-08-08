@@ -1,21 +1,24 @@
 ## FAQs 
+### What is Hacktoberfest?
+
 <img align="right" width="200" src="assets/hacktoberfest.jpg" alt="hacktoberfest-logo" />
-#### What is Hacktoberfest?
+
 Hacktoberfest is a monthlong celebration of open source software run by DigitalOcean.
 
-#### Hacktoberfest is open to everyone in our global community!
+### Hacktoberfest is open to everyone in our global community!
+
 Four quality pull requests must be submitted to public GitHub repositories.
 You can sign up anytime between October 1 and October 31.
 What is open source?
 Open source refers to source code that is publicly accessible and allows anyone to inspect, modify or learn from it. Open source projects encourage collaboration and the freedom to use the software for any purpose you wish.
 
-#### What is a pull request?
+### What is a pull request?
 Pull requests are proposed code changes you can submit to a branch in a repository on GitHub. Once submitted, a project maintainer will review and discuss the changes before they become final.
 
-#### How do I get started?
+### How do I get started?
 Start with **What to Do** below.
 
-#### Do I get a prize for participating?
+### Do I get a prize for participating?
 Aside from the knowledge you’ll gain (and the fun you’ll have), you’ll also receive a limited edition Hacktoberfest T-shirt for submitting 4 valid pull requests.
 
 
@@ -24,14 +27,12 @@ Aside from the knowledge you’ll gain (and the fun you’ll have), you’ll als
 
 If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
 
-#### Fork this repository
+### Fork this repository
 
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
-
-#### Clone the repository
+### Clone the repository
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the clone button and then click the *copy to clipboard* icon.
 
@@ -50,7 +51,7 @@ git clone https://github.com/this-is-you/first-contributions.git
 ```
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
 
-#### Create a branch
+### Create a branch
 
 Change to the repository directory on your computer (if you are not already there):
 
@@ -68,7 +69,7 @@ git checkout -b add-alonzo-church
 ```
 (The name of the branch does not need to have the word *add* in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
 
-**Make necessary changes and commit those changes**
+#### Make necessary changes and commit those changes
 
 Now open `Contributors.md` file in a text editor, add your name to it, with your Github profile link. Now, save the file.
 
@@ -90,7 +91,7 @@ git commit -m "Add <your-name> to Contributors list"
 ```
 replacing `<your-name>` with your name.
 
-#### Push changes to GitHub
+### Push changes to GitHub
 
 Push your changes using the command `git push`:
 ```
@@ -98,7 +99,7 @@ git push origin <add-your-branch-name>
 ```
 replacing `<add-your-branch-name>` with the name of the branch you created earlier.
 
-#### Submit your changes for review
+### Submit your changes for review
 
 If you go to your repository on GitHub, you'll see a  `Compare & pull request` button. Click on that button.
 
