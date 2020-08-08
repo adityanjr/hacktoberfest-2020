@@ -1,3 +1,4 @@
+<img align="right" width="200" src="assets/hacktoberfest.png" alt="hacktoberfest-logo" />
 ## FAQs 
 #### What is Hacktoberfest?
 Hacktoberfest is a monthlong celebration of open source software run by DigitalOcean.
@@ -12,7 +13,7 @@ Open source refers to source code that is publicly accessible and allows anyone 
 Pull requests are proposed code changes you can submit to a branch in a repository on GitHub. Once submitted, a project maintainer will review and discuss the changes before they become final.
 
 #### How do I get started?
-Enter your email above to receive updates on this year’s program.
+Start with **What to Do** below.
 
 #### Do I get a prize for participating?
 Aside from the knowledge you’ll gain (and the fun you’ll have), you’ll also receive a limited edition Hacktoberfest T-shirt for submitting 4 valid pull requests.
@@ -49,7 +50,7 @@ git clone https://github.com/this-is-you/first-contributions.git
 ```
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
 
-## Create a branch
+#### Create a branch
 
 Change to the repository directory on your computer (if you are not already there):
 
@@ -67,7 +68,7 @@ git checkout -b add-alonzo-church
 ```
 (The name of the branch does not need to have the word *add* in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
 
-#### Make necessary changes and commit those changes
+**Make necessary changes and commit those changes**
 
 Now open `Contributors.md` file in a text editor, add your name to it, with your Github profile link. Now, save the file.
 
