@@ -2,3 +2,4 @@
 
 - [Aditya Singh](https://github.com/adityanjr)
 - [Champion Alpha](https://github.com/championalpha)
+- [Aditya Shrivastava](https://github.com/Aditya-Shrivastava)
