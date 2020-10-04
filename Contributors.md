@@ -8,3 +8,4 @@
 - [Ary Setya](https://github.com/arysetya)
 - [apleht](https://github.com/apleht)
 - [alexandrunst](https://github.com/AlexandruNst)
+- [Anthony Morris](https://github.com/TonyDMorris)
