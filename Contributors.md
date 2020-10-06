@@ -10,4 +10,4 @@
 - [alexandrunst](https://github.com/AlexandruNst)
 - [Anthony Morris](https://github.com/TonyDMorris)
 - [Naveen Reddy](https://github.com/naveenreddy2000)
-- [Vishnu Bhagirathan](https://github.com/(https://github.com/Viz38)
+- [Vishnu Bhagirathan](https://github.com/Viz38)
