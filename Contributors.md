@@ -13,3 +13,4 @@
 - [Vishnu Bhagirathan](https://github.com/Viz38)
 - [Tio Tobing](https://github.com/tiotobing)
 - [Bernard](https://github.com/bernard-mlab/)
+- [Russ Carroll] (https://github.com/SoWrongImRight/)
