@@ -12,7 +12,7 @@
    <img src="https://img.shields.io/github/issues-pr/adityanjr/hacktoberfest-2020.svg">
 </p>
 
-**Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest-2020 and make 4 pull requests (PRs) between October 1-31 to earn a free t-shirt.**
+**Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest-2020 and make 4 pull requests (PRs) between October 1-31 to earn a free T-shirt:tshirt: and Stickers.**
 
 ***
 
