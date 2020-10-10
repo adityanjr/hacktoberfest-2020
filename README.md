@@ -133,6 +133,26 @@ If you find the repo the useful, feel free to Star :star: the repo.
 
 <img src="assets/adityanjr_star.png" alt="star repo">
 
+***
+
+## How to Update
+
+In the case when you kept the original repository git history, so you have to update your repo from remote to avoid comflict and update to date your repo with others work. 
+You can always pull and merge updates from the "upstream" repository back into your
+project by running:
+
+```bash
+$ git fetch upstream            # Fetch (upstream) repository
+$ git checkout main             # Switch to the main branch (or, master branch)
+$ git merge upstream/main       # Merge upstream/master into the local branch
+```
+**Or**
+```bash
+$ git checkout main             # Switch to the main branch (or, master branch)
+$ git pull origin main          # Fetch and Merge upstream/master into the local branch
+```
+***
+
 ### Made with :heart: by <a href="https://github.com/adityanjr">adityanjr</a>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/adityanjr)
