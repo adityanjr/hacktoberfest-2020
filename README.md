@@ -1,31 +1,48 @@
-## FAQs 
+
+<h1 align="center"> Hacktoberfest-2020</h1>
+
+<img align="center" height=100% width=100% src="https://hacktoberfest.digitalocean.com/assets/HF-full-logo-b05d5eb32b3f3ecc9b2240526104cf4da3187b8b61963dd9042fdc2536e4a76c.svg" alt="hacktoberfest2020">
+
+<p align="center">
+   <img src="https://img.shields.io/badge/author-adityanjr-orange">
+   <img src="https://img.shields.io/github/issues/adityanjr/hacktoberfest-2020"> 
+   <img src="https://img.shields.io/github/forks/adityanjr/hacktoberfest-2020">
+   <img src="https://img.shields.io/github/stars/adityanjr/hacktoberfest-2020?color=green">
+   <img src="https://komarev.com/ghpvc/?username=adityanjr&color=blue">
+   <img src="https://img.shields.io/github/issues-pr/adityanjr/hacktoberfest-2020.svg">
+</p>
+
+**Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest-2020 and make 4 pull requests (PRs) between October 1-31 to earn a free t-shirt.**
+
+***
+
 ### What is Hacktoberfest?
 
-<img align="right" width="200" src="assets/hacktoberfest.jpg" alt="hacktoberfest-logo" />
+Hacktoberfest is the easiest way to get into open source! Hacktoberfest is a month long festival of open source code presented by [Digital Ocean](https://www.digitalocean.com/), [Intel](https://hacktoberfest.digitalocean.com/intel.pdf) and [DEV](https://www.dev.to/) this year in 2020.
 
-Hacktoberfest is a monthlong celebration of open source software run by DigitalOcean.
+During the entire month of October 2020, all you have to do is contribute to any open source projects and open at least 4 pull requests. Yes, any project and any kind of contributions. It can be a be a bug fix, improvement, or even a documentation change! And win a T-Shirt and awesome stickers.
 
-### Hacktoberfest is open to everyone in our global community!
+If you’ve never contributed to open source before, this is the perfect time to get started because Hacktoberfest provides a large list of available contribution opportunities (and yes, there are always plenty for beginners too).
 
-Four quality pull requests must be submitted to public GitHub repositories.
-You can sign up anytime between October 1 and October 31.
-What is open source?
-Open source refers to source code that is publicly accessible and allows anyone to inspect, modify or learn from it. Open source projects encourage collaboration and the freedom to use the software for any purpose you wish.
+### Why Should I Contribute?
+Hacktoberfest has a simple and plain moto.
+> Support open source and earn a limited edition T-shirt and few stickers!
+
+So, yes! You can win a T-Shirt and few awesome stickers to attach on your laptop. On plus side, you will get into beautiful world of open source and get the international exposure. 
+
 
 ### What is a pull request?
-Pull requests are proposed code changes you can submit to a branch in a repository on GitHub. Once submitted, a project maintainer will review and discuss the changes before they become final.
+- Pull requests are proposed code changes you can submit to a branch in a repository on GitHub. Once submitted, a project maintainer will review and discuss the changes before they become final.
 
-### How do I get started?
-Start with **What to Do** below.
+- New to Open Source? Don't know how to [`Create a Pull Request`](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)? read this documentation.
 
-### Do I get a prize for participating?
-Aside from the knowledge you’ll gain (and the fun you’ll have), you’ll also receive a limited edition Hacktoberfest T-shirt for submitting 4 valid pull requests.
+***
 
+## How do I get started?
 
-## What to Do
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
-If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
+- If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
 
 ### Fork this repository
 
