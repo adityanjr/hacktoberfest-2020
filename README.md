@@ -51,7 +51,7 @@ This will create a copy of this repository in your account.
 
 ### Clone the repository
 
-Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the clone button and then click the *copy to clipboard* icon.
+Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the clone button and then click the *copy to clipboard* icon :clipboard:.
 
 Open a terminal and run the following git command:
 
@@ -122,8 +122,16 @@ If you go to your repository on GitHub, you'll see a  `Compare & pull request` b
 
 <img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
 
-Now submit the pull request.
+To submit the Pull Request(PR) write a `Title`, `Leave a message` and press `Create pull request` button.
 
 <img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
 
-Soon I'll be merging all your changes into the master branch of this project. Starting Now !
+#### And That's All.
+   - Soon I'll be merging all your changes into the master branch of this project. Starting Now !
+
+If you find the repo the useful, feel free to Star :star: the repo.
+<img src="" alt="star repo">
+
+### Made with :heart: by <a href="https://github.com/adityanjr">adityanjr</a>
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/adityanjr)
