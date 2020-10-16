@@ -20,7 +20,7 @@
 
 Hacktoberfest is the easiest way to get into open source! Hacktoberfest is a month long festival of open source code presented by [Digital Ocean](https://www.digitalocean.com/), [Intel](https://hacktoberfest.digitalocean.com/intel.pdf) and [DEV](https://www.dev.to/) this year in 2020.
 
-During the entire month of October 2020, all you have to do is contribute to any open source projects and open at least 4 pull requests. Yes, any project and any kind of contributions. It can be a be a bug fix, improvement, or even a documentation change! And win a T-Shirt:tshirt: and awesome stickers.
+During the entire month of October 2020, all you have to do is contribute to any open source projects and open at least 4 pull requests. Yes, any project and any kind of contributions. It can be a bug fix, improvement, or even a documentation change! And win a T-Shirt:tshirt: and awesome stickers.
 
 If you’ve never contributed to open source before, this is the perfect time to get started because Hacktoberfest provides a large list of available contribution opportunities (and yes, there are always plenty for beginners too).
 
@@ -137,7 +137,7 @@ If you find the repo the useful, feel free to Star :star: the repo.
 
 ## How to Update
 
-In the case when you kept the original repository git history, so you have to update your repo from remote to avoid comflict and update to date your repo with others work. 
+In the case when you kept the original repository git history, you have to update your repo from remote to avoid conflict and update your repo with others work. 
 You can always pull and merge updates from the "upstream" repository back into your
 project by running:
 
