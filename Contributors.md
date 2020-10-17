@@ -7,6 +7,7 @@
 - [Athul Joy](https://github.com/iathul)
 - [Ary Setya](https://github.com/arysetya)
 - [apleht](https://github.com/apleht)
+- [Candra Perdana](https://github.com/cp2940)
 - [alexandrunst](https://github.com/AlexandruNst)
 - [Anthony Morris](https://github.com/TonyDMorris)
 - [Naveen Reddy](https://github.com/naveenreddy2000)
