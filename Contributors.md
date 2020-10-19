@@ -26,3 +26,4 @@
 - [Meghna Singh](https://github.com/Meghna2080)
 - [Pritesh Tripathi](https://github.com/priteshtripathi7)
 - [Sahan Chandrabahu](https://github.com/SahanChan)
+- [Rizky Pakpahan] (https://github.com/rizkypakpahan)
