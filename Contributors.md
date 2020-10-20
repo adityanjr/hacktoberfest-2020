@@ -29,3 +29,4 @@
 - [Sahan Chandrabahu](https://github.com/SahanChan)
 - [Rizky Pakpahan](https://github.com/rizkypakpahan)
 - [Raw-apple](https://github.com/Raw-apple)
+- [yashi parikh](https://github.com/Yashi30)
