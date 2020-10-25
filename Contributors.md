@@ -38,3 +38,4 @@
 - [Athemsj01](https://github.com/Athemsj01)
 - [Raúl Rivera Gutiérrez](https://github.com/Raul123-dev)
 - [Juan Aguilera](https://github.com/Juan-41)
+- [Rogelio Manriquez Cobian](https://github.com/RogerMxG)
