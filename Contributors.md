@@ -35,4 +35,3 @@
 - [Ruben Kharel](https://github.com/rubenkharel)
 - [Sri Subhash Pathuri](https://github.com/srisubhashp)
 - [Juan Aguilera](https://github.com/Juan-41)
-
