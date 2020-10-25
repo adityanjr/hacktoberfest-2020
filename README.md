@@ -5,7 +5,7 @@
 
 <p align="center">
    <img src="https://img.shields.io/badge/author-adityanjr-orange">
-   <img src="https://img.shields.io/github/issues/adityanjr/hacktoberfest-2020"> 
+   <img src="https://img.shields.io/github/issues/adityanjr/hacktoberfest-2020">
    <img src="https://img.shields.io/github/forks/adityanjr/hacktoberfest-2020">
    <img src="https://img.shields.io/github/stars/adityanjr/hacktoberfest-2020?color=green">
    <img src="https://komarev.com/ghpvc/?username=adityanjr&color=blue">
@@ -28,7 +28,7 @@ If you’ve never contributed to open source before, this is the perfect time to
 Hacktoberfest has a simple and plain moto.
 > Support open source and earn a limited edition T-shirt and few stickers!
 
-So, yes! You can win a T-Shirt:tshirt: and few awesome stickers to attach on your laptop. On plus side, you will get into beautiful world of open source and get the international exposure. 
+So, yes! You can win a T-Shirt:tshirt: and few awesome stickers to attach on your laptop. On plus side, you will get into the beautiful world of open source and get international exposure.
 
 
 ### What is a pull request?
@@ -137,7 +137,7 @@ If you find the repo the useful, feel free to Star :star: the repo.
 
 ## How to Update
 
-In the case when you kept the original repository git history, you have to update your repo from remote to avoid conflict and update your repo with others work. 
+In the case when you kept the original repository git history, you have to update your repo from remote to avoid conflict and update your repo with others work.
 You can always pull and merge updates from the "upstream" repository back into your
 project by running:
 
