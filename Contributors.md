@@ -40,3 +40,4 @@
 - [Juan Aguilera](https://github.com/Juan-41)
 - [Rogelio Manriquez Cobian](https://github.com/RogerMxG)
 - [Mohammed Bayero Yayandi](https://github.com/byruzyayandy1)
+- [Fernando Vargas Rodriguez](https://github.com/fernan297xd)
