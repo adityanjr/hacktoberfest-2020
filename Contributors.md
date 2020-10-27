@@ -41,3 +41,6 @@
 - [Rogelio Manriquez Cobian](https://github.com/RogerMxG)
 - [Mohammed Bayero Yayandi](https://github.com/byruzyayandy1)
 - [Rifai Martin](https://github.com/rifaimartin)
+- [Edmundo Medel](https://github.com/EdoMed0o)
+- [Fernando Vargas Rodriguez](https://github.com/fernan297xd)
+- [Umesh Kumar](https://github.com/Umesh-JNU)
