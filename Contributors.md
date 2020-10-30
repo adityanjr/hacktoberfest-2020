@@ -24,7 +24,7 @@
 - [Sanjay P](https://github.com/sanjaydogood)
 - [Akilesh Kumar](https://github.com/cyb3r-w0lf)
 - [Srinivasa reddy](https://github.com/srisrinu1)
-- [Wireshark10](https://github.com/wireshark10)	
+- [Wireshark10](https://github.com/wireshark10)
 - [Meghna Singh](https://github.com/Meghna2080)
 - [Pritesh Tripathi](https://github.com/priteshtripathi7)
 - [Sahan Chandrabahu](https://github.com/SahanChan)
@@ -47,3 +47,4 @@
 - [Umesh Kumar](https://github.com/Umesh-JNU)
 - [Gustavo Morais](https://github.com/gustavovmo)
 - [Arjun Gupta] (https://github.com/arjun1311)
+- [Simran Birla](https://github.com/simranbirla)
