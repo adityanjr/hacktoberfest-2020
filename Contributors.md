@@ -47,3 +47,4 @@
 - [Umesh Kumar](https://github.com/Umesh-JNU)
 - [Gustavo Morais](https://github.com/gustavovmo)
 - [Arjun Gupta] (https://github.com/arjun1311)
+- [Lucas Salustiano](https://github.com/lucasalustiano)
