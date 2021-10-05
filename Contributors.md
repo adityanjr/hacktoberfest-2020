@@ -1,7 +1,7 @@
 ﻿## Contributors
 
 - [Aditya Singh](https://github.com/adityanjr)
-- [Champion Alpha](https://github.com/championalpha)
+- [championalpha](https://github.com/championalpha)
 - [Richard Green](https://github.com/rgreen324)
 - [Aditya Shrivastava](https://github.com/Aditya-Shrivastava)
 - [Andres Arrieta](https://github.com/lsomacruzl)
@@ -46,8 +46,8 @@
 - [Fernando Vargas Rodriguez](https://github.com/fernan297xd)
 - [Umesh Kumar](https://github.com/Umesh-JNU)
 - [Gustavo Morais](https://github.com/gustavovmo)
-- [Arjun Gupta] (https://github.com/arjun1311)
-- [dimonalek] (https://github.com/dimonalek)
+- [Arjun Gupta](https://github.com/arjun1311)
+- [dimonalek](https://github.com/dimonalek)
 - [Sanjay Soni](https://github.com/imsanjaysoni)
 - [Simran Birla](https://github.com/simranbirla)
 - [Raghav Vohra](https://github.com/vohraraghav22032000)
