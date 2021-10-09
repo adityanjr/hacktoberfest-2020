@@ -1,7 +1,8 @@
 ﻿## Contributors
 
 - [Aditya Singh](https://github.com/adityanjr)
-- [championalpha](https://github.com/championalpha)
+- [Champion Alpha](https://github.com/championalpha)
+- [Piyush Singh](https://github.com/p1yush)
 - [Richard Green](https://github.com/rgreen324)
 - [Aditya Shrivastava](https://github.com/Aditya-Shrivastava)
 - [Andres Arrieta](https://github.com/lsomacruzl)
@@ -20,7 +21,6 @@
 - [swt02026](https://github.com/swt02026)
 - [malviya99](https://github.com/malviya99)
 - [Sourav Roy](https://github.com/souravroy-test/)
-- [Piyush Singh](https://github.com/p1yush)
 - [Sanjay P](https://github.com/sanjaydogood)
 - [Akilesh Kumar](https://github.com/cyb3r-w0lf)
 - [Srinivasa reddy](https://github.com/srisrinu1)
