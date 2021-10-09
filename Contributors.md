@@ -2,6 +2,7 @@
 
 - [Aditya Singh](https://github.com/adityanjr)
 - [Champion Alpha](https://github.com/championalpha)
+- [Piyush Singh](https://github.com/p1yush)
 - [Richard Green](https://github.com/rgreen324)
 - [Aditya Shrivastava](https://github.com/Aditya-Shrivastava)
 - [Athul Joy](https://github.com/iathul)
@@ -17,4 +18,3 @@
 - [swt02026](https://github.com/swt02026)
 - [malviya99](https://github.com/malviya99)
 - [Sourav Roy](https://github.com/souravroy-test/)
-- [Piyush Singh](https://github.com/p1yush)
