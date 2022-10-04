@@ -1,8 +1,6 @@
 
 <h1 align="center"> Hacktoberfest-2020</h1>
 
-<img align="center" height=100% width=100% src="https://hacktoberfest.digitalocean.com/assets/HF-full-logo-b05d5eb32b3f3ecc9b2240526104cf4da3187b8b61963dd9042fdc2536e4a76c.svg" alt="hacktoberfest2020">
-
 <p align="center">
    <img src="https://img.shields.io/badge/author-adityanjr-orange">
    <img src="https://img.shields.io/github/issues/adityanjr/hacktoberfest-2020">
