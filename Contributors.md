@@ -33,6 +33,7 @@
 - [yashi parikh](https://github.com/Yashi30)
 - [Masood Ahmed](https://github.com/masoodahme)
 - [Reza Alamsyah](https://github.com/Reas-19)
+- [ritik jain](https://github.com/RJ025)
 - [Ruben Kharel](https://github.com/rubenkharel)
 - [Sri Subhash Pathuri](https://github.com/srisubhashp)
 - [Diego Perez Perez](https://github.com/CodeBreaker518)
